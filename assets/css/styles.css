@@ -186,7 +186,6 @@ p {
 .main-wrapper {
     background: #fff;
     padding: 60px;
-    padding-right: 300px;
     page-break-before: always;
     width: 680px;
     position: absolute;
